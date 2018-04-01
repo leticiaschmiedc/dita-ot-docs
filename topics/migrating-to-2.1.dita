@@ -12,6 +12,13 @@
   <shortdesc>In DITA-OT 2.1, the <codeph>insertVariable</codeph> template was deprecated for PDF transformations and
     should be replaced with the <codeph>getVariable</codeph> template. Various <codeph>dita.<b>out.</b>map.*</codeph>
     targets have been deprecated in favor of updated <codeph>dita.map.*</codeph> equivalents.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
 
   <refbody>
     <section>

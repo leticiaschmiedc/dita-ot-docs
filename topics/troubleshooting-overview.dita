@@ -9,4 +9,11 @@
   </titlealts>
   <shortdesc>This section contains information about problems that you might encounter and how to resolve
     them.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
 </task>

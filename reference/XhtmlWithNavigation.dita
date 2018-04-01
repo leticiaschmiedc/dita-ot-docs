@@ -8,6 +8,13 @@
     through the processing pipeline. All HTML-based transformation begin with the same call to the pre-processing
     module, after which they generate HTML files and then branch to create the transformation-specific navigation
     files.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
   <conbody>
     <section>
       <draft-comment author="Kristen Eberlein" time="29 March 2013">Does the content in this section pertain to the

@@ -10,6 +10,13 @@
   <shortdesc>To ensure custom plug-ins work well with the core toolkit code and remain compatible with future releases,
     the DITA Open Toolkit project recommends that plug-ins use modern development practices and common coding
     patterns.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
   <conbody>
     <section conkeyref="reusable-components/use-xslt2"/>
     <section>

@@ -7,6 +7,13 @@
   <shortdesc>Plug-ins can add an entirely new transformation type. The new transformation type can be very simple,
     such as an XHTML build that creates an additional control file; it also can be very complex, adding any number of
     new processing steps.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
   <taskbody>
     <context>
       <p>You can use the <codeph>dita.conductor.transtype.check</codeph> and <codeph>dita.transtype.print</codeph>
