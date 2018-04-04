@@ -9,7 +9,11 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>conref</indexterm>
+        <indexterm>@id, use with conref</indexterm>
+        <indexterm>content reference</indexterm>
+        <indexterm>transclusion</indexterm>
+        <indexterm>conref, see also conkeyref</indexterm>
       </keywords>
     </metadata>
   </prolog>
