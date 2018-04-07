@@ -9,7 +9,9 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>mapref</indexterm>
+        <indexterm>resolve map reference</indexterm>
+        <indexterm>solve references</indexterm>
       </keywords>
     </metadata>
   </prolog>
