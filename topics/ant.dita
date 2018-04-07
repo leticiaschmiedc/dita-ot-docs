@@ -10,7 +10,10 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>Ant</indexterm>
+        <indexterm>What is Ant</indexterm>
+        <indexterm>Ant script build.xml</indexterm>
+        <indexterm>Ant to manage XSLT</indexterm>
       </keywords>
     </metadata>
   </prolog>
