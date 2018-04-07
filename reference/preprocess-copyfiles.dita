@@ -10,7 +10,9 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>copy-files</indexterm>
+        <indexterm>copy related files</indexterm>
+        <indexterm>copy resources</indexterm>
       </keywords>
     </metadata>
   </prolog>
