@@ -10,7 +10,7 @@
     <metadata>
       <keywords>
         <indexterm>conref</indexterm>
-        <indexterm>@id, use with conref</indexterm>
+        <indexterm><xmlatt>id</xmlatt>, use with conref</indexterm>
         <indexterm>content reference</indexterm>
         <indexterm>transclusion</indexterm>
         <indexterm>conref, see also conkeyref</indexterm>
