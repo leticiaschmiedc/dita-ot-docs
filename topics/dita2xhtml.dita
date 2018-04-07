@@ -10,7 +10,11 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>xhtml</indexterm>
+        <indexterm>table of content</indexterm>
+        <indexterm>toc</indexterm>
+        <indexterm>transformation</indexterm>
+        <indexterm>dita-ot css file</indexterm>
       </keywords>
     </metadata>
   </prolog>
