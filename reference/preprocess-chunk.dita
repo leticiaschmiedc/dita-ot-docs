@@ -9,7 +9,16 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>preprocesing</indexterm>
+        <indexterm>chunk, preprocessing</indexterm>
+        <indexterm><xmlatt>chunk</xmlatt></indexterm>
+        <indexterm>select-topic, chunking</indexterm>
+        <indexterm>select-document, chunking</indexterm>
+        <indexterm>select-branch, chunking</indexterm>
+        <indexterm>by-topic, chunking</indexterm>
+        <indexterm>by-document, chunking</indexterm>
+        <indexterm>to-content, chunking</indexterm>
+        <indexterm>to-navigation, chunking</indexterm>
       </keywords>
     </metadata>
   </prolog>
