@@ -11,7 +11,10 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>normalized DITA</indexterm>
+        <indexterm>map references</indexterm>
+        <indexterm>map</indexterm>
+        <indexterm>code references</indexterm>
       </keywords>
     </metadata>
   </prolog>
