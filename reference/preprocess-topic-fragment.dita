@@ -10,7 +10,13 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>preprocessing</indexterm>
+        <indexterm>coderef</indexterm>
+        <indexterm>code references</indexterm>
+        <indexterm>topic-fragment</indexterm>
+        <indexterm>SAX pipes</indexterm>
+        <indexterm>codeblock</indexterm>
+        <indexterm>code examples, external</indexterm>
       </keywords>
     </metadata>
   </prolog>
