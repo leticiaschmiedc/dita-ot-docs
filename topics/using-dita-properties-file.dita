@@ -14,7 +14,10 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>build parameters with .properties files</indexterm>
+        <indexterm>.properties files</indexterm>
+        <indexterm>create .properties files</indexterm>
+        <indexterm>reference .properties files</indexterm>
       </keywords>
     </metadata>
   </prolog>
