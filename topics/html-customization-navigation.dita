@@ -13,7 +13,9 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>custom HTML</indexterm>
+        <indexterm>HTML parameters</indexterm>
+        <indexterm>add navigation</indexterm>
       </keywords>
     </metadata>
   </prolog>
