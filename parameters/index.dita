@@ -14,7 +14,10 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>setting parameters</indexterm>
+        <indexterm>settings</indexterm>
+        <indexterm>configuration</indexterm>
+        <indexterm>dita-ot parameters</indexterm>
       </keywords>
     </metadata>
   </prolog>
