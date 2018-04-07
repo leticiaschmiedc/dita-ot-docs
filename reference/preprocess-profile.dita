@@ -9,7 +9,12 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm><codeph>profile</codeph></indexterm>
+        <indexterm><xmlatt>print</xmlatt></indexterm>
+        <indexterm>profiling</indexterm>
+        <indexterm>filtering content</indexterm>
+        <indexterm>DITAVAL</indexterm>
+        <indexterm>conditional content</indexterm>
       </keywords>
     </metadata>
   </prolog>
