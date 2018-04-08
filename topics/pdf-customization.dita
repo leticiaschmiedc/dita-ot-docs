@@ -13,7 +13,17 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>customize PDF output</indexterm>
+        <indexterm>customizing PDF</indexterm>
+        <indexterm>DITA-Ot plug-in</indexterm>
+        <indexterm>transform DITA to PDF</indexterm>
+        <indexterm>customize PDF cover</indexterm>
+        <indexterm>customize PDF page layout</indexterm>
+        <indexterm>customize the PDF output</indexterm>
+        <indexterm>custom PDF plug-in types</indexterm>
+        <indexterm>custom PDF plug-in</indexterm>
+        <indexterm>PDF plug-in structure</indexterm>
+        <indexterm>generating revision bars</indexterm>
       </keywords>
     </metadata>
   </prolog>
