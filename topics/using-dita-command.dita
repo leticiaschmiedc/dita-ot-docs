@@ -9,7 +9,11 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>DITA command</indexterm>
+        <indexterm>output</indexterm>
+        <indexterm>DITA command-line tool</indexterm>
+        <indexterm>DITA directory</indexterm>
+        <indexterm>properties</indexterm>
       </keywords>
     </metadata>
   </prolog>
