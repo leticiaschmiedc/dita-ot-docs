@@ -10,7 +10,13 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>Custom HTML plug-ins</indexterm>
+        <indexterm>custom DITA-OT plug-ins</indexterm>
+        <indexterm>Custom HTML</indexterm>
+        <indexterm>Plug-in</indexterm>
+        <indexterm>custom stylesheet</indexterm>
+        <indexterm>HTML markup</indexterm>
+        <indexterm>bundling CSS</indexterm>
       </keywords>
     </metadata>
   </prolog>
