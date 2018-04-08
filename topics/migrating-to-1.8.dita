@@ -15,7 +15,16 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>release 1.8</indexterm>
+        <indexterm>XSLT stylesheets</indexterm>
+        <indexterm>parameters</indexterm>
+        <indexterm>modes</indexterm>
+        <indexterm>XHTML</indexterm>
+        <indexterm>PDF</indexterm>
+        <indexterm>ODT</indexterm>
+        <indexterm>ODT transformations</indexterm>
+        <indexterm>release notes</indexterm>
+        <indexterm>legacy PDF</indexterm>
       </keywords>
     </metadata>
   </prolog>
