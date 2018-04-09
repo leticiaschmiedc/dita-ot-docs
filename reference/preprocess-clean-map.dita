@@ -9,7 +9,9 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>clean map</indexterm>
+        <indexterm>removes elements</indexterm>
+        <indexterm>map cleanup</indexterm>
       </keywords>
     </metadata>
   </prolog>
