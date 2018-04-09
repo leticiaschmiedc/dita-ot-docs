@@ -15,7 +15,11 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>DITA-OT 3.0</indexterm>
+        <indexterm>XSLT 2.0</indexterm>
+        <indexterm>Map-first processing</indexterm>
+        <indexterm>ant.import</indexterm>
+        <indexterm>version="1.0"</indexterm>
       </keywords>
     </metadata>
   </prolog>
