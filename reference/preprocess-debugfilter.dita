@@ -10,7 +10,10 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>debug</indexterm>
+        <indexterm>filter</indexterm>
+        <indexterm>copy in temporary directory</indexterm>
+        <indexterm>debugging information</indexterm>
       </keywords>
     </metadata>
   </prolog>
