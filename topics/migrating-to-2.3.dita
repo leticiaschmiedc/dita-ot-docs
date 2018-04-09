@@ -16,7 +16,12 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>DITA-Ot 2.3</indexterm>
+        <indexterm>&lt;choicetable></indexterm>
+        <indexterm>BEM-style CSS</indexterm>
+        <indexterm>conreffile</indexterm>
+        <indexterm>conref-check</indexterm>
+        <indexterm>coderef</indexterm>
       </keywords>
     </metadata>
   </prolog>
