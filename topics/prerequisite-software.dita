@@ -9,7 +9,19 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>DITA-OT software requirements</indexterm>
+        <indexterm>preequisite software</indexterm>
+        <indexterm>DITA software</indexterm>
+        <indexterm>JRE for DITA</indexterm>
+        <indexterm>JDK for DITA</indexterm>
+        <indexterm>Apache Ant for DITA</indexterm>
+        <indexterm>XSLT processor for DITA</indexterm>
+        <indexterm>ICU for Java</indexterm>
+        <indexterm>Microsoft Help Workshop</indexterm>
+        <indexterm>XSL-FO Processor for DITA</indexterm>
+        <indexterm>specific transformations in DITA</indexterm>
+        <indexterm>download software requirements for DITA</indexterm>
+        <indexterm>software basics DITA-OT</indexterm>
       </keywords>
     </metadata>
   </prolog>
