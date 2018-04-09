@@ -9,7 +9,13 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>building output dita command</indexterm>
+        <indexterm>DITA output on Mac</indexterm>
+        <indexterm>DITA output on Linux</indexterm>
+        <indexterm>DITA output on Windows</indexterm>
+        <indexterm>command line DITA output</indexterm>
+        <indexterm>transtype formats DITA command</indexterm>
+        <indexterm>how to transtype formats in DITA-OT</indexterm>
       </keywords>
     </metadata>
   </prolog>
