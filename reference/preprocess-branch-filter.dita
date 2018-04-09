@@ -8,7 +8,10 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>branch-filter</indexterm>
+        <indexterm>branch filtering</indexterm>
+        <indexterm>filter topics</indexterm>
+        <indexterm>topic filtering</indexterm>
       </keywords>
     </metadata>
   </prolog>
