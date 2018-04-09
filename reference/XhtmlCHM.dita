@@ -10,7 +10,12 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>dita.map.htmlhelp</indexterm>
+        <indexterm>control files</indexterm>
+        <indexterm>htmlhelp transformation</indexterm>
+        <indexterm>chm files</indexterm>
+        <indexterm>XHMTL process</indexterm>
+        <indexterm>HTML Help compiler</indexterm>
       </keywords>
     </metadata>
   </prolog>
