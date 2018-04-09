@@ -14,7 +14,11 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>DITA-OT 2.5</indexterm>
+        <indexterm>start-indent</indexterm>
+        <indexterm>org.dita.pdf2.legacy</indexterm>
+        <indexterm>common.title</indexterm>
+        <indexterm>&lt;example></indexterm>
       </keywords>
     </metadata>
   </prolog>
