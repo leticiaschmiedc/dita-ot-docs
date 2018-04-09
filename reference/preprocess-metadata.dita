@@ -10,7 +10,18 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm><codeph>move-meta-entries</codeph></indexterm>
+        <indexterm>metadata, topic to map</indexterm>
+        <indexterm>metadata, map to topic</indexterm>
+        <indexterm><codeph>mappull</codeph></indexterm>
+        <indexterm>preprocessing</indexterm>
+        <indexterm>metadata, preprocessing</indexterm>
+        <indexterm><xmlatt>locktitle</xmlatt>, preprocessing</indexterm>
+        <indexterm><xmlelement>linktext</xmlelement>, preprocessing</indexterm>
+        <indexterm><xmlelement>shortdesc</xmlelement>, preprocessing</indexterm>
+        <indexterm><xmlatt>type</xmlatt>, preprocessing</indexterm>
+        <indexterm><xmlatt>toc</xmlatt>, preprocessing</indexterm>
+        <indexterm><xmlatt>print</xmlatt>, preprocessing</indexterm>
       </keywords>
     </metadata>
   </prolog>
@@ -30,10 +41,11 @@
             is already specified locally.</li>
           <li>The <xmlelement>shortdesc</xmlelement> element is set based on the short description of the referenced
             topic, unless it is already specified locally.</li>
-          <li>The <xmlatt>type</xmlatt> attribute is set on <xmlelement>topicref</xmlelement> elements that reference
-            local DITA topics. The value of the <xmlatt>type</xmlatt> attribute is set to value of the root element of
-            the topic; for example, a <xmlelement>topicref</xmlelement> element that references a task topic is given a
-              <xmlatt>type</xmlatt> attribute set to "task"".</li>
+          <li>The <xmlatt>type</xmlatt> attribute is set on <xmlelement>topicref</xmlelement>
+            elements that reference local DITA topics. The value of the <xmlatt>type</xmlatt>
+            attribute is set to value of the root element of the topic; for example, a
+              <xmlelement>topicref</xmlelement> element that references a task topic is given a
+              <xmlatt>type</xmlatt> attribute set to "task".</li>
           <li>Attributes that cascade, such as <xmlatt>toc</xmlatt> and <xmlatt>print</xmlatt>, are made explicit on any
             child <xmlelement>topicref</xmlelement> elements. This allows future steps to work with the attributes
             directly, without reevaluating the cascading behavior.</li>
