@@ -13,7 +13,10 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>setting parameters</indexterm>
+        <indexterm>dita command arguments</indexterm>
+        <indexterm>arguments</indexterm>
+        <indexterm>options</indexterm>
       </keywords>
     </metadata>
   </prolog>

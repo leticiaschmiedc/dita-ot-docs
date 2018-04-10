@@ -9,7 +9,9 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>troff</indexterm>
+        <indexterm>man page viewer</indexterm>
+        <indexterm>Unix-style platforms</indexterm>
       </keywords>
     </metadata>
   </prolog>
