@@ -12,7 +12,9 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>migrating ant builds using dita command</indexterm>
+        <indexterm>Ant build file</indexterm>
+        <indexterm>ant build</indexterm>
       </keywords>
     </metadata>
   </prolog>
