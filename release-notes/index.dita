@@ -16,7 +16,26 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>maintenance version 3.0.3</indexterm>
+        <indexterm>maintenance version 3.0.2</indexterm>
+        <indexterm>maintenance version 3.0.1</indexterm>
+        <indexterm>release notes</indexterm>
+        <indexterm>download maintenance package</indexterm>
+        <indexterm>release highlights</indexterm>
+        <indexterm>requirements</indexterm>
+        <indexterm>markdown support</indexterm>
+        <indexterm>preview support</indexterm>
+        <indexterm>normalized DITA output</indexterm>
+        <indexterm>Map-first preprocessing</indexterm>
+        <indexterm>resolved issues</indexterm>
+        <indexterm>features</indexterm>
+        <indexterm>enhancements and changes</indexterm>
+        <indexterm>bugs</indexterm>
+        <indexterm>contributors</indexterm>
+        <indexterm>documentation updates</indexterm>
+        <indexterm>lightweight DITA</indexterm>
+        <indexterm>GitHub</indexterm>
+        <indexterm>Flavored Markdown</indexterm>
       </keywords>
     </metadata>
   </prolog>
