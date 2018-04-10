@@ -12,7 +12,9 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>Extension points by plug-in</indexterm>
+        <indexterm>modify toolkit processing</indexterm>
+        <indexterm>costum plug-ins</indexterm>
       </keywords>
     </metadata>
   </prolog>
