@@ -13,13 +13,6 @@
       reported in DITA-OT <keyword keyref="release"/>, which <ph conref="#highlights/summary"/></shortdesc>
     <note type="tip"><ph conref="../resources/conref-task.dita#ID/download-ot"/></note>
   </abstract>
-  <prolog>
-    <metadata>
-      <keywords>
-        <indexterm></indexterm>
-      </keywords>
-    </metadata>
-  </prolog>
 
   <reference id="v303">
     <title>Maintenance Release <keyword keyref="maintenance-version"/></title>

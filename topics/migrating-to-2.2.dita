@@ -13,13 +13,6 @@
     plug-ins were created for each of the rendering engine-specific PDF transformations.<draft-comment author="staylor">
       There are likely other changes that should be noted here. </draft-comment>
   </shortdesc>
-  <prolog>
-    <metadata>
-      <keywords>
-        <indexterm></indexterm>
-      </keywords>
-    </metadata>
-  </prolog>
 
   <refbody>
     <section>

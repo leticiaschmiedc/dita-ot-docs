@@ -7,11 +7,4 @@
   <shortdesc>For more complex customizations, you can create custom DITA-OT plug-ins that build on the default XHTML and
     HTML5 transformations, bundle custom stylesheets, modify the HTML markup, or override other aspects of HTML
     processing.</shortdesc>
-  <prolog>
-    <metadata>
-      <keywords>
-        <indexterm></indexterm>
-      </keywords>
-    </metadata>
-  </prolog>
 </task>

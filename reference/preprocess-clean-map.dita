@@ -6,11 +6,4 @@
   <title>Map cleanup (clean-map)</title>
   <shortdesc>The <codeph>clean-map</codeph> step removes any elements and attributes that were added to files to support
     preprocessing.</shortdesc>
-  <prolog>
-    <metadata>
-      <keywords>
-        <indexterm></indexterm>
-      </keywords>
-    </metadata>
-  </prolog>
 </concept>

@@ -13,13 +13,6 @@
     was corrected with regard to <codeph>shortdesc</codeph> handling, and a new XSLT template mode was introduced for
     HTML TOC processing. Several stylesheets were moved to plug-in specific folders and deprecated properties and XSLT
     variables were removed. </shortdesc>
-  <prolog>
-    <metadata>
-      <keywords>
-        <indexterm></indexterm>
-      </keywords>
-    </metadata>
-  </prolog>
 
   <refbody>
     <section>

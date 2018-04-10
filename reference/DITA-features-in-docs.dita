@@ -8,13 +8,7 @@
     <navtitle>DITA features in docs</navtitle>
   </titlealts>
   <shortdesc>The DITA Open Toolkit uses various recent DITA features in the project documentation.</shortdesc>
-  <prolog>
-    <metadata>
-      <keywords>
-        <indexterm></indexterm>
-      </keywords>
-    </metadata>
-  </prolog>
+
   <conbody>
     <p>The
       <xref href="https://github.com/dita-ot/docs" format="html" scope="external">source files</xref> for the DITA-OT

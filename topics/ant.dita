@@ -10,7 +10,9 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>Ant<indexterm>overview</indexterm></indexterm>
+        <indexterm>build.xml</indexterm>
+        <indexterm>files<indexterm>build.xml</indexterm></indexterm>
       </keywords>
     </metadata>
   </prolog>

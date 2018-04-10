@@ -8,13 +8,6 @@
     distributed outside of the toolkit, but it now ships bundled in the default packages. This
     HTML5-based output type creates a JavaScript-based frameset with TOC entries that expand and
     collapse.</shortdesc>
-  <prolog>
-    <metadata>
-      <keywords>
-        <indexterm></indexterm>
-      </keywords>
-    </metadata>
-  </prolog>
   <conbody>
     <section><p>The following Ant targets control most of the TocJS processing:<dl>
           <dlentry>

@@ -9,13 +9,6 @@
   </titlealts>
   <shortdesc>Although Ant builds are still supported in the DITA Open Toolkit, you might want to switch to use the new
       <cmdname>dita</cmdname> command.</shortdesc>
-  <prolog>
-    <metadata>
-      <keywords>
-        <indexterm></indexterm>
-      </keywords>
-    </metadata>
-  </prolog>
   <taskbody>
     <context>
       <p>Building output with the <cmdname>dita</cmdname> command is often easier than using Ant. In particular, you can

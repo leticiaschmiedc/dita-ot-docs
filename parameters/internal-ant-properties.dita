@@ -5,13 +5,6 @@
 <reference id="ant-properties">
   <title>Internal Ant properties</title>
   <shortdesc>Reference list of Ant properties used by DITA-OT internally.</shortdesc>
-  <prolog>
-    <metadata>
-      <keywords>
-        <indexterm></indexterm>
-      </keywords>
-    </metadata>
-  </prolog>
   <refbody>
     <section>
       <parml>

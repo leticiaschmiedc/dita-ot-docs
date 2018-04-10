@@ -7,13 +7,6 @@
   <shortdesc>The <codeph>topic-fragment</codeph> step expands content references to elements in the same topic and
     resolves references made with the <xmlelement>coderef</xmlelement> element. This step is implemented in SAX
     pipes.</shortdesc>
-  <prolog>
-    <metadata>
-      <keywords>
-        <indexterm></indexterm>
-      </keywords>
-    </metadata>
-  </prolog>
   <conbody>
     <section>
       <p>Content references to elements in the same topic are defined via same-topic fragments such as
