@@ -9,7 +9,12 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>reference</indexterm>
+        <indexterm>advanced information</indexterm>
+        <indexterm>Architecture of the DITA Open Toolkit</indexterm>
+        <indexterm>DITA specification support</indexterm>
+        <indexterm>Java API</indexterm>
+        <indexterm>License Information</indexterm>
       </keywords>
     </metadata>
   </prolog>
