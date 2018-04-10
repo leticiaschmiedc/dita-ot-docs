@@ -13,7 +13,16 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>bundling CSS</indexterm>
+        <indexterm>HTML plug-in</indexterm>
+        <indexterm>custom CSS</indexterm>
+        <indexterm>create DITA-OT plug-in</indexterm>
+        <indexterm>HTML5</indexterm>
+        <indexterm>custom .css file</indexterm>
+        <indexterm>args.css</indexterm>
+        <indexterm>plug-in directory</indexterm>
+        <indexterm>CSS rule</indexterm>
+        <indexterm>custom stylesheet</indexterm>
       </keywords>
     </metadata>
   </prolog>

@@ -10,7 +10,16 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>DITA map</indexterm>
+        <indexterm>directory</indexterm>
+        <indexterm>content outside map directory</indexterm>
+        <indexterm>output directory</indexterm>
+        <indexterm>map directory</indexterm>
+        <indexterm>images directory</indexterm>
+        <indexterm>navigation structure</indexterm>
+        <indexterm>broken links</indexterm>
+        <indexterm>HTML file</indexterm>
+        <indexterm>source directory</indexterm>
       </keywords>
     </metadata>
   </prolog>

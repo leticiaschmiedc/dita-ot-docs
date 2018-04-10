@@ -14,7 +14,14 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>customize HTML</indexterm>
+        <indexterm>properties file</indexterm>
+        <indexterm>using a properties file</indexterm>
+        <indexterm>custom CSS</indexterm>
+        <indexterm>HTML 5 output</indexterm>
+        <indexterm>DITA-OT documentation</indexterm>
+        <indexterm>customization</indexterm>
+        <indexterm>custom .css file</indexterm>
       </keywords>
     </metadata>
   </prolog>
