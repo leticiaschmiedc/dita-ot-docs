@@ -10,7 +10,13 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>TOC file</indexterm>
+        <indexterm>file generating</indexterm>
+        <indexterm>index.html</indexterm>
+        <indexterm>file processing</indexterm>
+        <indexterm>navigation</indexterm>
+        <indexterm>nav-toc</indexterm>
+        <indexterm>HTML5 transformation</indexterm>
       </keywords>
     </metadata>
   </prolog>
