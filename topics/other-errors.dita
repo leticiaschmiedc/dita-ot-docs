@@ -9,7 +9,9 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>Out of memory error</indexterm>
+        <indexterm>UnsupportedClassVersionError</indexterm>
+        <indexterm>Unable to locate tools.jar</indexterm>
       </keywords>
     </metadata>
   </prolog>
