@@ -11,7 +11,9 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>HTML processing modules</indexterm>
+        <indexterm>HTML file generator</indexterm>
+        <indexterm>navigation files creator</indexterm>
       </keywords>
     </metadata>
   </prolog>
