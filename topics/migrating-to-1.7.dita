@@ -16,7 +16,13 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>release 1.7</indexterm>
+        <indexterm>flagging for HTML</indexterm>
+        <indexterm>output formats</indexterm>
+        <indexterm>corrected PDF processing</indexterm>
+        <indexterm>HTML TOC processing</indexterm>
+        <indexterm>extended transformation types</indexterm>
+        <indexterm>XSLT variables</indexterm>
       </keywords>
     </metadata>
   </prolog>
