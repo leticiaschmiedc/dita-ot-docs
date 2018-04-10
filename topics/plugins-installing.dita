@@ -8,7 +8,12 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>installing plug-ins</indexterm>
+        <indexterm>dita command, to install a plug-in</indexterm>
+        <indexterm>dita-ot-dir, installation directory</indexterm>
+        <indexterm>plug-in-zip, filename or URL of distribution</indexterm>
+        <indexterm>PATH environment variable</indexterm>
+        <indexterm>plugins directory</indexterm>
       </keywords>
     </metadata>
   </prolog>
