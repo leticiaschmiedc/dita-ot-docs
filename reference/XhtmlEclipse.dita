@@ -10,7 +10,15 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>XHTML file</indexterm>
+        <indexterm>Eclipsehelp system</indexterm>
+        <indexterm>generate plug-in</indexterm>
+        <indexterm>navigation</indexterm>
+        <indexterm>plug-in behavior</indexterm>
+        <indexterm>Eclipse control</indexterm>
+        <indexterm>control file</indexterm>
+        <indexterm>dita.map.eclipse</indexterm>
+        <indexterm>eclipse template</indexterm>
       </keywords>
     </metadata>
   </prolog>

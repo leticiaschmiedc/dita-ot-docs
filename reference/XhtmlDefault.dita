@@ -10,7 +10,12 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>XHTML generating</indexterm>
+        <indexterm>dita.map.xhtml</indexterm>
+        <indexterm>XHTML transformation</indexterm>
+        <indexterm>XHTML file</indexterm>
+        <indexterm>index.html</indexterm>
+        <indexterm>generate TOC file</indexterm>
       </keywords>
     </metadata>
   </prolog>
