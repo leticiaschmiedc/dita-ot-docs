@@ -12,7 +12,8 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>files<indexterm>local.properties</indexterm></indexterm>
+        <indexterm>local.properties file</indexterm>
       </keywords>
     </metadata>
   </prolog>

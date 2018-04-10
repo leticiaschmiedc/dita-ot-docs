@@ -6,13 +6,6 @@
   <title>Adding a Java library to the DITA-OT <parmname>classpath</parmname> parameter</title>
   <shortdesc>You can use the <codeph>dita.conductor.lib.import</codeph> extension point to add an additional Java
     library to the DITA-OT <parmname>classpath</parmname> parameter.</shortdesc>
-  <prolog>
-    <metadata>
-      <keywords>
-        <indexterm></indexterm>
-      </keywords>
-    </metadata>
-  </prolog>
   <taskbody>
     <steps>
       <step>

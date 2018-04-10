@@ -6,11 +6,4 @@
   <title>Plug-in applications</title>
   <shortdesc>Plug-ins allow you to extend the functionality of the DITA-OT. This might entail adding support for
     specialized document types, integrating processing overrides, or defining new output transformations.</shortdesc>
-  <prolog>
-    <metadata>
-      <keywords>
-        <indexterm></indexterm>
-      </keywords>
-    </metadata>
-  </prolog>
 </concept>

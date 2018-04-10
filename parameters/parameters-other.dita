@@ -9,13 +9,6 @@
   </titlealts>
   <shortdesc>These parameters enable you to reload style sheets that the DITA-OT uses for specific pre-processing
     stages.</shortdesc>
-  <prolog>
-    <metadata>
-      <keywords>
-        <indexterm></indexterm>
-      </keywords>
-    </metadata>
-  </prolog>
   <refbody>
     <section>
       <parml>
