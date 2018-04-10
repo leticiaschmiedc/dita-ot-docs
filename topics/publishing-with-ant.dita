@@ -12,7 +12,9 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>Ant</indexterm>
+        <indexterm>using Ant</indexterm>
+        <indexterm>Building output using Ant</indexterm>
       </keywords>
     </metadata>
   </prolog>
