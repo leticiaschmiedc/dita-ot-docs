@@ -7,6 +7,13 @@
   <shortdesc>You can use these extension points to run an Ant target before or after the pre-processing stage. If
     necessary, you can also run an Ant target before a specific pre-processing step — but this approach is not
     recommended.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
   <refbody>
     <section>
       <note conref="../resources/conref-task.dita#ID/tip-extend-before-after-preprocessing"/>

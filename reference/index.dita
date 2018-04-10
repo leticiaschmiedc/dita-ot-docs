@@ -3,7 +3,14 @@
 <!--  This file is part of the DITA Open Toolkit project. See the accompanying LICENSE file for applicable license.  -->
 
 <concept id="reference">
-    <title>Reference</title>
-    <shortdesc>The <cite>Reference</cite> topics provide more advanced information about the DITA-OT architecture, API
-        and specification support, and licensing.</shortdesc>
+  <title>Reference</title>
+  <shortdesc>The <cite>Reference</cite> topics provide more advanced information about the DITA-OT architecture, API and
+    specification support, and licensing.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
 </concept>

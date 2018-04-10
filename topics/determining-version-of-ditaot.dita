@@ -8,6 +8,13 @@
     <navtitle>Checking the version</navtitle>
   </titlealts>
   <shortdesc>You can determine the version number of the DITA Open Toolkit from a command prompt.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
   <taskbody>
     <steps>
       <step>

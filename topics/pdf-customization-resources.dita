@@ -9,7 +9,13 @@
   </titlealts>
   <shortdesc>There are several external resources that can help you generate and refine custom PDF plug-ins for the DITA
     Open Toolkit.</shortdesc>
-
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
   <refbody>
     <section id="pdf-plugin-generator">
       <title>PDF Plugin Generator</title>

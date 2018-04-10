@@ -6,6 +6,13 @@
   <title>Conref (conref)</title>
   <shortdesc>The <codeph>conref</codeph> step resolves conref attributes, processing only the DITA maps or topics that
     use the @conref attribute. This step is implemented in XSLT.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
   <conbody>
     <section>
       <p>The values of the <xmlatt>id</xmlatt> attribute on referenced content are changed as the elements are pulled

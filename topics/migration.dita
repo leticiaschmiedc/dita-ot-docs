@@ -7,6 +7,13 @@
   <shortdesc>If you have XSL transformation overrides, plug-ins or other customizations written prior to DITA-OT
       <keyword keyref="release"/>, you may need to make changes to ensure your overrides work properly with the latest
     toolkit versions. </shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
   <refbody>
     <section>
       <p>In some cases, you may be able to remove old code that is no longer needed. In other cases, you may need to

@@ -6,6 +6,13 @@
   <title>Web-based resources</title>
   <shortdesc>There are many vital DITA resources online, including the Yahoo! dita-users group and the DITA-OT project
     website at dita-ot.org.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
   <refbody>
     <section>
       <dl>
