@@ -8,7 +8,10 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>reduce processing time</indexterm>
+            <indexterm>reuse JVM instance</indexterm>
+            <indexterm>reduce file size</indexterm>
+            <indexterm>disable debug attribute generation</indexterm>
       </keywords>
     </metadata>
   </prolog>

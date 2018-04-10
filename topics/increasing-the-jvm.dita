@@ -13,7 +13,9 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>Increasing Java memory</indexterm>
+        <indexterm>memory allocation</indexterm>
+        <indexterm>ANT_OPTS</indexterm>
       </keywords>
     </metadata>
   </prolog>

@@ -10,7 +10,10 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>debug mode</indexterm>
+        <indexterm>dita command</indexterm>
+        <indexterm>Ant</indexterm>
+        <indexterm>debugging</indexterm>
       </keywords>
     </metadata>
   </prolog>
