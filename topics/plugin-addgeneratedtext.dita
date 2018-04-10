@@ -9,7 +9,11 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>customizing generated text</indexterm>
+        <indexterm>adding new strings, example</indexterm>
+        <indexterm>dita.xsl.strings</indexterm>
+        <indexterm>modifying existing strings</indexterm>
+        <indexterm>adding a new language</indexterm>
       </keywords>
     </metadata>
   </prolog>
