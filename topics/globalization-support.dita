@@ -12,7 +12,10 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>generated text</indexterm>
+        <indexterm>index sorting</indexterm>
+        <indexterm>bi-directional text</indexterm>
+        <indexterm>configuation.properties</indexterm>
       </keywords>
     </metadata>
   </prolog>
