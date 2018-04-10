@@ -12,7 +12,18 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>installing DITA Open Toolkit</indexterm>
+        <indexterm>installation</indexterm>
+        <indexterm>getting started with DITA Open Toolkit</indexterm>
+        <indexterm>java version for DITA Open Toolkit</indexterm>
+        <indexterm>DITA Open Toolkit for Linux</indexterm>
+        <indexterm>DITA Open Toolkit for Mac</indexterm>
+        <indexterm>DITA Open Toolkit for Windows</indexterm>
+        <indexterm>download DITA</indexterm>
+        <indexterm>before you begin - DITA Open Toolkit</indexterm>
+        <indexterm>Oracle JRE</indexterm>
+        <indexterm>Oracle JDK</indexterm>
+        <indexterm>HTML Help</indexterm>
       </keywords>
     </metadata>
   </prolog>

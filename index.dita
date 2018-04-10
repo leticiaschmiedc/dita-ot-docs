@@ -10,7 +10,15 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>DITA-OT documentation</indexterm>
+        <indexterm>DITA Open Toolkit</indexterm>
+        <indexterm>alternative authoring formats</indexterm>
+        <indexterm>customiz HTML output</indexterm>
+        <indexterm>reference</indexterm>
+        <indexterm>DITA-OT plug-ins</indexterm>
+        <indexterm>install DITA-OT</indexterm>
+        <indexterm>PDF customization</indexterm>
+        <indexterm>parameters</indexterm>
       </keywords>
     </metadata>
   </prolog>
