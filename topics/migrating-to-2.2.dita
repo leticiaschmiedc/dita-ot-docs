@@ -16,7 +16,11 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>DITA-OT 2.2</indexterm>
+        <indexterm>note__title</indexterm>
+        <indexterm>RenderX XEP</indexterm>
+        <indexterm>user.input.file</indexterm>
+        <indexterm>&lt;frontmatter></indexterm>
       </keywords>
     </metadata>
   </prolog>
