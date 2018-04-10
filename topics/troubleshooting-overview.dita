@@ -12,7 +12,13 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>log files</indexterm>
+        <indexterm>DITA-OT error messages</indexterm>
+        <indexterm>How can I access help for the dita command?</indexterm>
+        <indexterm>how to enable debug mode</indexterm>
+        <indexterm>enable debug mode</indexterm>
+        <indexterm>increase Java memory allocation</indexterm>
+        <indexterm>reduce processing time</indexterm>
       </keywords>
     </metadata>
   </prolog>
