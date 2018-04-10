@@ -10,7 +10,9 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>Ant</indexterm>
+        <indexterm><cmdname>dita</cmdname> command</indexterm>
+        <indexterm>AnsiColorLogger</indexterm>
       </keywords>
     </metadata>
   </prolog>
