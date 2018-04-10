@@ -10,7 +10,12 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>Overrides</indexterm>
+        <indexterm>insertVariable</indexterm>
+        <indexterm>dita.out.map</indexterm>
+        <indexterm>layout-masters.xml</indexterm>
+        <indexterm>shortdesc</indexterm>
+        <indexterm>preprocess</indexterm>
       </keywords>
     </metadata>
   </prolog>
