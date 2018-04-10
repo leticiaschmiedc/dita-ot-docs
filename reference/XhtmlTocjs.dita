@@ -11,7 +11,15 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>tocjs transformation</indexterm>
+        <indexterm>TOC file</indexterm>
+        <indexterm>HTML5 file</indexterm>
+        <indexterm>JavaScript frameset</indexterm>
+        <indexterm>control files</indexterm>
+        <indexterm>HTML5 processing</indexterm>
+        <indexterm>run module</indexterm>
+        <indexterm>toctree.js</indexterm>
+        <indexterm>dita.map.tocjs</indexterm>
       </keywords>
     </metadata>
   </prolog>
