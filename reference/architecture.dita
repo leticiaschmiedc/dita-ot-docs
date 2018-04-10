@@ -13,7 +13,14 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>architecture of the DITA Open Toolkit</indexterm>
+        <indexterm>processing structure</indexterm>
+        <indexterm>map-first preprocessing</indexterm>
+        <indexterm>processing modules</indexterm>
+        <indexterm>processing order</indexterm>
+        <indexterm>pre-processing modules</indexterm>
+        <indexterm>HTML-based processing modules</indexterm>
+        <indexterm>PDF processing modules</indexterm>
       </keywords>
     </metadata>
   </prolog>
