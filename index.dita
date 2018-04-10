@@ -10,11 +10,17 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>transformation terms</indexterm>
+        <indexterm>value syntax</indexterm>
+        <indexterm>pdf parameters</indexterm>
+        <indexterm>html parameters</indexterm>
+        <indexterm>html5 parameters</indexterm>
+        <indexterm>xhtml parameters</indexterm>
       </keywords>
     </metadata>
   </prolog>
   <body>
+    <p/>
 
     <note>While the DITA standard is owned and developed by OASIS, the DITA Open Toolkit project is governed separately.
       DITA-OT is an independent, open-source implementation of the DITA standard.</note>
