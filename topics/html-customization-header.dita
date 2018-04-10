@@ -13,7 +13,16 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>custom footer</indexterm>
+        <indexterm>custom header</indexterm>
+        <indexterm>customize footer</indexterm>
+        <indexterm>customize header</indexterm>
+        <indexterm>custom CSS</indexterm>
+        <indexterm>header banne</indexterm>
+        <indexterm>header image</indexterm>
+        <indexterm>header text</indexterm>
+        <indexterm>header</indexterm>
+        <indexterm>footer</indexterm>
       </keywords>
     </metadata>
   </prolog>
