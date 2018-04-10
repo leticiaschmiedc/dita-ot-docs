@@ -11,7 +11,10 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>globalizing content</indexterm>
+        <indexterm>@dir, use with globalizing content</indexterm>
+        <indexterm>@xml:lang use with globalizing content</indexterm>
+        <indexterm>globalization supp</indexterm>
       </keywords>
     </metadata>
   </prolog>
