@@ -10,7 +10,10 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>DITA command-line tool</indexterm>
+        <indexterm>ANT</indexterm>
+        <indexterm>output format</indexterm>
+        <indexterm>transformation</indexterm>
       </keywords>
     </metadata>
   </prolog>
