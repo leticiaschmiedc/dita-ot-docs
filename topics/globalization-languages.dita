@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
-<!--  This file is part of the DITA Open Toolkit project. See the accompanying LICENSE file for applicable license.  -->
+<!--su  This file is part of the DITA Open Toolkit project. See the accompanying LICENSE file for applicable license.  -->
 
 <reference id="dita-globalization-languages" xml:lang="en-US">
   <title>Supported languages</title>
@@ -8,7 +8,9 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>supported languages</indexterm>
+        <indexterm>language</indexterm>
+        <indexterm>language code</indexterm>
       </keywords>
     </metadata>
   </prolog>
