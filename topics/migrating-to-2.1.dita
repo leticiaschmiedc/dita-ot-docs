@@ -15,7 +15,15 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>release 2.1</indexterm>
+        <indexterm>insertVariable</indexterm>
+        <indexterm>getVariable</indexterm>
+        <indexterm>Dita-OT 2.1</indexterm>
+        <indexterm>custom stylesheets</indexterm>
+        <indexterm>custom plug-ins</indexterm>
+        <indexterm>release notes</indexterm>
+        <indexterm>deprecated targets</indexterm>
+        <indexterm>Preprocessing</indexterm>
       </keywords>
     </metadata>
   </prolog>
