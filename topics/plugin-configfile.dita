@@ -10,7 +10,10 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>plug-in descriptor file</indexterm>
+        <indexterm>plug-in identifiers</indexterm>
+        <indexterm>&lt;plugin></indexterm>
+        <indexterm/>
       </keywords>
     </metadata>
   </prolog>
