@@ -8,11 +8,16 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>dita</indexterm>
+        <indexterm>dita command</indexterm>
+        <indexterm>uninstall</indexterm>
+        <indexterm>uninstall plugin</indexterm>
+        <indexterm/>
       </keywords>
     </metadata>
   </prolog>
   <taskbody>
+    <context><codeph><b>dita</b></codeph><p> command</p></context>
     <steps>
       <step>
         <cmd>At the command-line prompt, enter the following command:</cmd>
