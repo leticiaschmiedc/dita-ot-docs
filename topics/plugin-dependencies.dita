@@ -9,7 +9,12 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>dita-ot</indexterm>
+        <indexterm>plug-in dependencies</indexterm>
+        <indexterm>plugin.xml</indexterm>
+        <indexterm>&lt;require></indexterm>
+        <indexterm>dita-ot warning during installation</indexterm>
+        <indexterm/>
       </keywords>
     </metadata>
   </prolog>

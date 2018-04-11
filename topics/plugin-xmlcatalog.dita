@@ -9,7 +9,12 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>dita-ot</indexterm>
+        <indexterm>dita.specialization.catalog.relative</indexterm>
+        <indexterm>org.dita.pdf2.catalog.relative</indexterm>
+        <indexterm>dita-ot xml</indexterm>
+        <indexterm>xml catalog file extending</indexterm>
+        <indexterm/>
       </keywords>
     </metadata>
   </prolog>
