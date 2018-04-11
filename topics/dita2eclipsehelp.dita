@@ -9,7 +9,15 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>eclipse help transformation</indexterm>
+        <indexterm>XHTML output</indexterm>
+        <indexterm>CSS files</indexterm>
+        <indexterm>control files</indexterm>
+        <indexterm>plugin.xml</indexterm>
+        <indexterm>mapname.xml</indexterm>
+        <indexterm>index.xml</indexterm>
+        <indexterm>plugin.properties</indexterm>
+        <indexterm>META-INF/MANIFEST.MF</indexterm>
       </keywords>
     </metadata>
   </prolog>
