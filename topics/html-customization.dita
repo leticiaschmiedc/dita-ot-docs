@@ -12,7 +12,9 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>custom HTML</indexterm>
+        <indexterm>HTML parameters</indexterm>
+        <indexterm>.properties file, to customize HTML</indexterm>
       </keywords>
     </metadata>
   </prolog>

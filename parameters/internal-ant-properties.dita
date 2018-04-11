@@ -8,7 +8,9 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>Internal Ant properties</indexterm>
+        <indexterm>ink roles</indexterm>
+        <indexterm>custom transform types</indexterm>
       </keywords>
     </metadata>
   </prolog>
