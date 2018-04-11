@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<!--  This file is part of the DITA Open Toolkit project. See the accompanying LICENSE file for applicable license.  -->
+<!--ht  This file is part of the DITA Open Toolkit project. See the accompanying LICENSE file for applicable license.  -->
 
 <concept id="dita2htmlhelp" xml:lang="en-US">
   <title>HTML Help</title>
@@ -9,7 +9,15 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>html help transformation</indexterm>
+        <indexterm>HTML output</indexterm>
+        <indexterm>CSS files</indexterm>
+        <indexterm>control files</indexterm>
+        <indexterm>Microsoft Compiled HTML Help (.chm) file</indexterm>
+        <indexterm>mapname.hhc</indexterm>
+        <indexterm>mapname.hhk</indexterm>
+        <indexterm>mapname.hhp</indexterm>
+        <indexterm>mapname.chm</indexterm>
       </keywords>
     </metadata>
   </prolog>
